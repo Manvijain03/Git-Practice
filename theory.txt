@@ -11,6 +11,8 @@ git commit -m "" (qoutes conatin the file action you are doing "Add index.html f
 git remote add origin https://github.com/Manvijain03/Git-Practice.git
 git push -u origin <branch name>(master)(since master was the default name for branch)
 git clone <repository name> (https://github.com/aqeelanwar/Tic-Tac-Toe.git)
+git checkout master
+
 
 1.install git 
 2.first create a local repository on system 
@@ -18,4 +20,13 @@ git clone <repository name> (https://github.com/aqeelanwar/Tic-Tac-Toe.git)
 4.create / sign up into github.com
 5.now create an empty repository on github without a readme file
 6.now u  can try clone on any project 
+7. then we add that project 
+8. we commit the project
+9. we push the changes
+
 we can always check for errors with help of git status as there can be errors in the naming of the file
+the changes will be shown on github only after it is pushed on commiting
+
+go to your projectsettings
+pages
+select your ranch
