@@ -1,0 +1,5 @@
+
+git config -global username"<your_username>"
+git config -global username"<your_username>"
+git init
+git add.
