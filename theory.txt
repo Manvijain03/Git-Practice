@@ -1,5 +1,21 @@
 
 git config -global username"<your_username>"
 git config -global username"<your_username>"
+
+for initialising a repository in github following commands are used :
+
 git init
-git add.
+git add .
+git status
+git commit -m "" (qoutes conatin the file action you are doing "Add index.html file")
+git remote add origin https://github.com/Manvijain03/Git-Practice.git
+git push -u origin <branch name>(master)(since master was the default name for branch)
+git clone <repository name> (https://github.com/aqeelanwar/Tic-Tac-Toe.git)
+
+1.install git 
+2.first create a local repository on system 
+3.then add new file 
+4.create / sign up into github.com
+5.now create an empty repository on github without a readme file
+6.now u  can try clone on any project 
+we can always check for errors with help of git status as there can be errors in the naming of the file
